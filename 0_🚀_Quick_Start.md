@@ -1,5 +1,3 @@
-
-#### 3. Create 0_🚀_Quick_Start.md
 ```markdown
 # One-Click Project Launcher
 
